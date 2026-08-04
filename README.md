@@ -1,17 +1,21 @@
-# About Me:
-Hi, my name is Ilya and I am studying Python and 1c and also developing my own ideas <br>that I consider promising. <br>I'm currently working on Alexandria.
+# Привет! Меня зовут Илья и я развиваю идеи, которые я считаю перспективными
 
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Fullstack+Developer;Open+Source+Enthusiast;Lifelong+Learner)
 
-##  Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ivilya07@gmail.com) 
+## Обо мне
+-  Сейчас я работаю над **Alexandria**
+-  Изучаю **Python, 1C**
+-  Как со мной связаться: **ivilya07@gmail.com**
 
-#  Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-#  GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Bl1nke&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Bl1nke&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+##  Мой стек технологий
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![1С](https://img.shields.io/badge/1С-FFCC00?style=for-the-badge)
 
----
-[![](https://komarev.com/ghpvc/?username=Bl1nke&icon=0&color=0)](https://visitcount.itsvg.in)
+## Моя статистика
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ВАШ_ЛОГИН&show_icons=true&theme=radical" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ВАШ_ЛОГИН&layout=compact&theme=radical" alt="Languages" />
+</p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+##  Соцсети
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Ilya22r)
