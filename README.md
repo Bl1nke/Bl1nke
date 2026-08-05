@@ -8,6 +8,7 @@
 -  Сейчас я работаю над/Currently working on **Alexandria**
 -  Изучаю/Learning **Python, 1C**
 -  Как со мной связаться/How to contact me: **ivilya07@gmail.com**
+-  Телеграм канал/telegram channel: **https://t.me/polunocnijun**
 
 ##  Мой стек технологий
 ## Tech Stack
